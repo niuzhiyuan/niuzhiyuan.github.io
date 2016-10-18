@@ -6,4 +6,5 @@
 }
 #message-page,#ab-page,#dt-page,.page-group{
 	animation: none!important;
+	-webkit-animation: none!important;
 }
